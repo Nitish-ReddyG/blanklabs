@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/blanklabs/static/css/main.40a2b15c.chunk.css",
+    "main.js": "/blanklabs/static/js/main.f896d05f.chunk.js",
+    "main.js.map": "/blanklabs/static/js/main.f896d05f.chunk.js.map",
+    "runtime-main.js": "/blanklabs/static/js/runtime-main.1d1d8954.js",
+    "runtime-main.js.map": "/blanklabs/static/js/runtime-main.1d1d8954.js.map",
+    "static/js/2.9d935c1b.chunk.js": "/blanklabs/static/js/2.9d935c1b.chunk.js",
+    "static/js/2.9d935c1b.chunk.js.map": "/blanklabs/static/js/2.9d935c1b.chunk.js.map",
+    "index.html": "/blanklabs/index.html",
+    "static/css/main.40a2b15c.chunk.css.map": "/blanklabs/static/css/main.40a2b15c.chunk.css.map",
+    "static/js/2.9d935c1b.chunk.js.LICENSE.txt": "/blanklabs/static/js/2.9d935c1b.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/blanklabs/static/media/HKGrotesk-Black.abe42fe7.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d1d8954.js",
+    "static/js/2.9d935c1b.chunk.js",
+    "static/css/main.40a2b15c.chunk.css",
+    "static/js/main.f896d05f.chunk.js"
+  ]
+}
